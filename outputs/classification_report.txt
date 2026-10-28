@@ -1,0 +1,8 @@
+SYNTHETIC DEMONSTRATION ONLY — not biological evidence.\n\n              precision    recall  f1-score   support
+
+           0       0.58      0.65      0.62        55
+           1       0.50      0.42      0.46        45
+
+    accuracy                           0.55       100
+   macro avg       0.54      0.54      0.54       100
+weighted avg       0.54      0.55      0.54       100
